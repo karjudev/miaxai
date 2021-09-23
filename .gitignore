@@ -1,0 +1,6 @@
+.vscode
+code
+data
+neighborhood
+**/__pycache__
+*.txt
